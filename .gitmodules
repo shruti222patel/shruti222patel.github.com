@@ -1,0 +1,6 @@
+[submodule "hugo-custom"]
+	path = hugo-custom
+	url = https://github.com/shruti222patel/hugo-theme-blueberry-detox
+[submodule "themes/hugo-custom"]
+	path = themes/hugo-custom
+	url = https://github.com/shruti222patel/hugo-theme-blueberry-detox
